@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36594
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederick_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40278#The-Threatening-Eye
 gutenberg_issued: '2012-07-19'
 gutenberg_type: Text
 identifiers:
